@@ -1,0 +1,21 @@
+
+#squareContainer {
+
+  display: flex;
+  flex-direction: column;
+  
+  border: 3px solid rgb(71, 9, 142);
+  height: 400px;
+  width: 400px;
+  
+}
+
+.boxGrid {
+  display: flex;
+  flex: 1;
+}
+
+.squareBox {
+  background-color: #2ecc71;
+  flex: 1px;
+}
